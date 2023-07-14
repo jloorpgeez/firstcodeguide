@@ -3,12 +3,24 @@
     <title>Jorge Test</title>
     <link href="https://jloorpgeez.github.io/firstcodeguide/feed.xml" rel="self" />
     <link href="https://jloorpgeez.github.io/firstcodeguide" />
-    <updated>2023-07-14T12:29:28-05:00</updated>
+    <updated>2023-07-14T16:13:59-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
     <id>https://jloorpgeez.github.io/firstcodeguide</id>
 
+    <entry>
+        <title>Button Test</title>
+        <author>
+            <name>Jorge Lopez</name>
+        </author>
+        <link href="https://jloorpgeez.github.io/firstcodeguide/button-test.html"/>
+        <id>https://jloorpgeez.github.io/firstcodeguide/button-test.html</id>
+
+        <updated>2023-07-14T16:13:59-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Test Web Site en ONEDrive</title>
         <author>
