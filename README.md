@@ -1,2 +1,0 @@
-# firstcodeguide
-Firstcodeguide site

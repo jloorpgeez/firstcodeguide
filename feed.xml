@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Jorge Test</title>
+    <link href="https://jloorpgeez.github.io/firstcodeguide/feed.xml" rel="self" />
+    <link href="https://jloorpgeez.github.io/firstcodeguide" />
+    <updated>2023-07-14T12:29:28-05:00</updated>
+    <author>
+        <name>Jorge Lopez</name>
+    </author>
+    <id>https://jloorpgeez.github.io/firstcodeguide</id>
+
+    <entry>
+        <title>Test Web Site en ONEDrive</title>
+        <author>
+            <name>Jorge Lopez</name>
+        </author>
+        <link href="https://jloorpgeez.github.io/firstcodeguide/test-web-site-en-onedrive.html"/>
+        <id>https://jloorpgeez.github.io/firstcodeguide/test-web-site-en-onedrive.html</id>
+
+        <updated>2023-07-14T12:29:28-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://jloorpgeez.github.io/firstcodeguide/media/posts/1/pikachu.jpg" alt="" width="225" height="225" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-xs.jpg 300w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-sm.jpg 480w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-md.jpg 768w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
