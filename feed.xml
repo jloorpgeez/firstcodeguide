@@ -3,44 +3,59 @@
     <title>Jorge Test</title>
     <link href="https://jloorpgeez.github.io/firstcodeguide/feed.xml" rel="self" />
     <link href="https://jloorpgeez.github.io/firstcodeguide" />
-    <updated>2023-07-15T18:54:40-05:00</updated>
+    <updated>2023-07-15T20:05:43-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
     <id>https://jloorpgeez.github.io/firstcodeguide</id>
 
     <entry>
-        <title>Radar</title>
+        <title>Funnel Chart</title>
         <author>
             <name>Jorge Lopez</name>
         </author>
-        <link href="https://jloorpgeez.github.io/firstcodeguide/radar.html"/>
-        <id>https://jloorpgeez.github.io/firstcodeguide/radar.html</id>
-        <media:content url="https://jloorpgeez.github.io/firstcodeguide/media/posts/3/Radar-new-Polygon.png" medium="image" />
+        <link href="https://jloorpgeez.github.io/firstcodeguide/funnel-chart.html"/>
+        <id>https://jloorpgeez.github.io/firstcodeguide/funnel-chart.html</id>
+            <category term="Funnel"/>
 
-        <updated>2023-07-15T15:25:36-05:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-07-15T20:05:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Funnel Chart Funnel chart ready to be used. Import it to your&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Funnel Chart</h1>
+<p>Funnel chart ready to be used.</p>
+<p>Import it to your project and use following variables :</p>
+<ul>
+<li>Label1 - thru Label5, to give name to each stage.</li>
+<li>Value1 thru Value 5, to enter the value for each stage.</li>
+</ul>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>PowerApps Components</title>
+        <title>Radar Chart</title>
         <author>
             <name>Jorge Lopez</name>
         </author>
         <link href="https://jloorpgeez.github.io/firstcodeguide/button-test.html"/>
         <id>https://jloorpgeez.github.io/firstcodeguide/button-test.html</id>
-        <media:content url="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/christian-cagni-2DLXpYB9_SQ-unsplash.jpg" medium="image" />
+        <media:content url="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" medium="image" />
+            <category term="Radar"/>
 
-        <updated>2023-07-15T18:54:40-05:00</updated>
+        <updated>2023-07-15T20:04:38-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/christian-cagni-2DLXpYB9_SQ-unsplash.jpg" alt="" />
+                        <img src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" alt="" />
                     12 vertex Radar graph (SVG) PowerApps component ready to be used. Import&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/christian-cagni-2DLXpYB9_SQ-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" class="type:primaryImage" alt="" /></p>
                 <p> </p>
 <h1>Radar Chart</h1>
 <p> </p>
@@ -54,22 +69,7 @@
 <li>strokecolor - colour of the shadow zone.</li>
 </ul>
 <figure class="post__image"><img loading="lazy"  src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/Radar-new-Polygon-2.png" alt="" width="507" height="407" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Test Web Site en ONEDrive</title>
-        <author>
-            <name>Jorge Lopez</name>
-        </author>
-        <link href="https://jloorpgeez.github.io/firstcodeguide/test-web-site-en-onedrive.html"/>
-        <id>https://jloorpgeez.github.io/firstcodeguide/test-web-site-en-onedrive.html</id>
-
-        <updated>2023-07-14T12:29:28-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://jloorpgeez.github.io/firstcodeguide/media/posts/1/pikachu.jpg" alt="" width="225" height="225" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-xs.jpg 300w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-sm.jpg 480w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-md.jpg 768w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-lg.jpg 1024w"></figure>
+<p><a href="\Users\secmoto.WIN10EM\Downloads\12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download Radar</button> </a></p>
             ]]>
         </content>
     </entry>

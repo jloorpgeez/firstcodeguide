@@ -11,45 +11,35 @@
     },
     "items": [
         {
-            "id": "https://jloorpgeez.github.io/firstcodeguide/radar.html",
-            "url": "https://jloorpgeez.github.io/firstcodeguide/radar.html",
-            "title": "Radar",
-            "image": "https://jloorpgeez.github.io/firstcodeguide/media/posts/3/Radar-new-Polygon.png",
+            "id": "https://jloorpgeez.github.io/firstcodeguide/funnel-chart.html",
+            "url": "https://jloorpgeez.github.io/firstcodeguide/funnel-chart.html",
+            "title": "Funnel Chart",
+            "summary": "Funnel Chart Funnel chart ready to be used. Import it to your&hellip;",
+            "content_html": "<h1>Funnel Chart</h1>\n<p>Funnel chart ready to be used.</p>\n<p>Import it to your project and use following variables :</p>\n<ul>\n<li>Label1 - thru Label5, to give name to each stage.</li>\n<li>Value1 thru Value 5, to enter the value for each stage.</li>\n</ul>",
             "author": {
                 "name": "Jorge Lopez"
             },
             "tags": [
+                   "Funnel"
             ],
-            "date_published": "2023-07-15T15:25:36-05:00",
-            "date_modified": "2023-07-15T15:25:36-05:00"
+            "date_published": "2023-07-15T20:05:21-05:00",
+            "date_modified": "2023-07-15T20:05:43-05:00"
         },
         {
             "id": "https://jloorpgeez.github.io/firstcodeguide/button-test.html",
             "url": "https://jloorpgeez.github.io/firstcodeguide/button-test.html",
-            "title": "PowerApps Components",
+            "title": "Radar Chart",
             "summary": "12 vertex Radar graph (SVG) PowerApps component ready to be used. Import&hellip;",
-            "content_html": "<p> </p>\n<h1>Radar Chart</h1>\n<p> </p>\n<p>12 vertex Radar graph (SVG) PowerApps component ready to be used.</p>\n<p>Import it to your project and use following variables :</p>\n<ul>\n<li>LabelA - thru LabelL, to give name to each vertex</li>\n<li>ValueA - thru ValueL, to enter the values.</li>\n<li>minValue - Minimum allowed value</li>\n<li>maxValue - Maximum allowed value</li>\n<li>strokecolor - colour of the shadow zone.</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jloorpgeez.github.io/firstcodeguide/media/posts/2/Radar-new-Polygon-2.png\" alt=\"\" width=\"507\" height=\"407\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w\"></figure>",
-            "image": "https://jloorpgeez.github.io/firstcodeguide/media/posts/2/christian-cagni-2DLXpYB9_SQ-unsplash.jpg",
+            "content_html": "<p> </p>\n<h1>Radar Chart</h1>\n<p> </p>\n<p>12 vertex Radar graph (SVG) PowerApps component ready to be used.</p>\n<p>Import it to your project and use following variables :</p>\n<ul>\n<li>LabelA - thru LabelL, to give name to each vertex</li>\n<li>ValueA - thru ValueL, to enter the values.</li>\n<li>minValue - Minimum allowed value</li>\n<li>maxValue - Maximum allowed value</li>\n<li>strokecolor - colour of the shadow zone.</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jloorpgeez.github.io/firstcodeguide/media/posts/2/Radar-new-Polygon-2.png\" alt=\"\" width=\"507\" height=\"407\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w\"></figure>\n<p><a href=\"\\Users\\secmoto.WIN10EM\\Downloads\\12-side-radar (3).zip\" download=\"\"> <button class=\"btn\"><i class=\"fa fa-download\"></i> Download Radar</button> </a></p>",
+            "image": "https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg",
             "author": {
                 "name": "Jorge Lopez"
             },
             "tags": [
+                   "Radar"
             ],
             "date_published": "2023-07-14T16:13:59-05:00",
-            "date_modified": "2023-07-15T18:54:40-05:00"
-        },
-        {
-            "id": "https://jloorpgeez.github.io/firstcodeguide/test-web-site-en-onedrive.html",
-            "url": "https://jloorpgeez.github.io/firstcodeguide/test-web-site-en-onedrive.html",
-            "title": "Test Web Site en ONEDrive",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jloorpgeez.github.io/firstcodeguide/media/posts/1/pikachu.jpg\" alt=\"\" width=\"225\" height=\"225\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-xs.jpg 300w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-sm.jpg 480w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-md.jpg 768w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/1/responsive/pikachu-lg.jpg 1024w\"></figure>",
-            "author": {
-                "name": "Jorge Lopez"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-07-14T12:29:28-05:00",
-            "date_modified": "2023-07-14T12:29:28-05:00"
+            "date_modified": "2023-07-15T20:04:38-05:00"
         }
     ]
 }
