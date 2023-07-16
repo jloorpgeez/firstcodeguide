@@ -3,7 +3,7 @@
     <title>Jorge Test</title>
     <link href="https://jloorpgeez.github.io/firstcodeguide/feed.xml" rel="self" />
     <link href="https://jloorpgeez.github.io/firstcodeguide" />
-    <updated>2023-07-15T20:05:43-05:00</updated>
+    <updated>2023-07-15T20:13:57-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
@@ -46,7 +46,7 @@
         <media:content url="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" medium="image" />
             <category term="Radar"/>
 
-        <updated>2023-07-15T20:04:38-05:00</updated>
+        <updated>2023-07-15T20:13:57-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" alt="" />
@@ -69,7 +69,7 @@
 <li>strokecolor - colour of the shadow zone.</li>
 </ul>
 <figure class="post__image"><img loading="lazy"  src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/Radar-new-Polygon-2.png" alt="" width="507" height="407" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w"></figure>
-<p><a href="\Users\secmoto.WIN10EM\Downloads\12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download Radar</button> </a></p>
+<p><a href="media/files/12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download Radar</button> </a></p>
             ]]>
         </content>
     </entry>
