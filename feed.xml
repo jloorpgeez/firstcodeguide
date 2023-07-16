@@ -3,12 +3,40 @@
     <title>Jorge Test</title>
     <link href="https://jloorpgeez.github.io/firstcodeguide/feed.xml" rel="self" />
     <link href="https://jloorpgeez.github.io/firstcodeguide" />
-    <updated>2023-07-15T20:25:41-05:00</updated>
+    <updated>2023-07-15T20:32:43-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
     <id>https://jloorpgeez.github.io/firstcodeguide</id>
 
+    <entry>
+        <title>Gauge Chart</title>
+        <author>
+            <name>Jorge Lopez</name>
+        </author>
+        <link href="https://jloorpgeez.github.io/firstcodeguide/gauge-chart.html"/>
+        <id>https://jloorpgeez.github.io/firstcodeguide/gauge-chart.html</id>
+            <category term="Gauge"/>
+
+        <updated>2023-07-15T20:32:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Gauge Chart Gauge chart ready to be used. Import it to your&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Gauge Chart</h1>
+<p>Gauge chart ready to be used.</p>
+<p>Import it to your project and use following variables :</p>
+<ul>
+<li>-LabelA - thru LabelC, to give name to left, middle and right points.</li>
+<li>-Value, to enter the value. Use values from 0 to 100</li>
+<li>-FillColour - to enter the colour of the gauge.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Funnel Chart</title>
         <author>

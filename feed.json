@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://jloorpgeez.github.io/firstcodeguide/gauge-chart.html",
+            "url": "https://jloorpgeez.github.io/firstcodeguide/gauge-chart.html",
+            "title": "Gauge Chart",
+            "summary": "Gauge Chart Gauge chart ready to be used. Import it to your&hellip;",
+            "content_html": "<h1>Gauge Chart</h1>\n<p>Gauge chart ready to be used.</p>\n<p>Import it to your project and use following variables :</p>\n<ul>\n<li>-LabelA - thru LabelC, to give name to left, middle and right points.</li>\n<li>-Value, to enter the value. Use values from 0 to 100</li>\n<li>-FillColour - to enter the colour of the gauge.</li>\n</ul>",
+            "author": {
+                "name": "Jorge Lopez"
+            },
+            "tags": [
+                   "Gauge"
+            ],
+            "date_published": "2023-07-15T20:32:23-05:00",
+            "date_modified": "2023-07-15T20:32:43-05:00"
+        },
+        {
             "id": "https://jloorpgeez.github.io/firstcodeguide/funnel-chart.html",
             "url": "https://jloorpgeez.github.io/firstcodeguide/funnel-chart.html",
             "title": "Funnel Chart",
