@@ -30,7 +30,7 @@
             "url": "https://jloorpgeez.github.io/firstcodeguide/button-test.html",
             "title": "Radar Chart",
             "summary": "12 vertex Radar graph (SVG) PowerApps component ready to be used. Import&hellip;",
-            "content_html": "<p> </p>\n<h1>Radar Chart</h1>\n<p> </p>\n<p>12 vertex Radar graph (SVG) PowerApps component ready to be used.</p>\n<p>Import it to your project and use following variables :</p>\n<ul>\n<li>LabelA - thru LabelL, to give name to each vertex</li>\n<li>ValueA - thru ValueL, to enter the values.</li>\n<li>minValue - Minimum allowed value</li>\n<li>maxValue - Maximum allowed value</li>\n<li>strokecolor - colour of the shadow zone.</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jloorpgeez.github.io/firstcodeguide/media/posts/2/Radar-new-Polygon-2.png\" alt=\"\" width=\"507\" height=\"407\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w\"></figure>\n<p><a href=\"media/files/12-side-radar (3).zip\" download=\"\"> <button class=\"btn\"><i class=\"fa fa-download\"></i> Download Radar</button> </a></p>",
+            "content_html": "<p> </p>\n<h1>Radar Chart</h1>\n<p> </p>\n<p>12 vertex Radar graph (SVG) PowerApps component ready to be used.</p>\n<p>Import it to your project and use following variables :</p>\n<ul>\n<li>LabelA - thru LabelL, to give name to each vertex</li>\n<li>ValueA - thru ValueL, to enter the values.</li>\n<li>minValue - Minimum allowed value</li>\n<li>maxValue - Maximum allowed value</li>\n<li>strokecolor - colour of the shadow zone.</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jloorpgeez.github.io/firstcodeguide/media/posts/2/Radar-new-Polygon-2.png\" alt=\"\" width=\"507\" height=\"407\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w\"></figure>\n<p><a href=\"/12-side-radar (3).zip\" download=\"\"> <button class=\"btn\"><i class=\"fa fa-download\"></i> Download Radar</button> </a></p>",
             "image": "https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg",
             "author": {
                 "name": "Jorge Lopez"
@@ -39,7 +39,7 @@
                    "Radar"
             ],
             "date_published": "2023-07-14T16:13:59-05:00",
-            "date_modified": "2023-07-15T20:13:57-05:00"
+            "date_modified": "2023-07-15T20:20:12-05:00"
         }
     ]
 }
