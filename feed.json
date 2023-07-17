@@ -11,6 +11,35 @@
     },
     "items": [
         {
+            "id": "https://jloorpgeez.github.io/firstcodeguide/pdf.html",
+            "url": "https://jloorpgeez.github.io/firstcodeguide/pdf.html",
+            "title": "PDF",
+            "summary": "This browser does not support PDF!",
+            "content_html": "<p> </p>\n<!--\n      Place the following <div> element where you want the PDF to be displayed in your website. You can change the size using the width and height attributes.\n    -->\n<div><object data=\"https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf\" type=\"application/pdf\" width=\"500\" height=\"678\">\n\n        <div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf\" width=\"500\" height=\"678\">\n        <p>This browser does not support PDF!</p>\n        </iframe></div>\n      </object></div>",
+            "author": {
+                "name": "Jorge Lopez"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-16T19:33:39-05:00",
+            "date_modified": "2023-07-16T19:37:41-05:00"
+        },
+        {
+            "id": "https://jloorpgeez.github.io/firstcodeguide/contact-form.html",
+            "url": "https://jloorpgeez.github.io/firstcodeguide/contact-form.html",
+            "title": "Contact Us",
+            "summary": "Your email: Your message: Send",
+            "content_html": "<form action=\"https://formspree.io/f/xbjvlrad\" method=\"POST\">\n<p><label> Your email: <input name=\"email\" type=\"email\"> </label></p>\n<p><label> Your message: <textarea cols=\"50\" name=\"message\" rows=\"5\"></textarea></label></p>\n<p><label> </label> <!-- your other form fields go here --> <button type=\"submit\">Send</button></p>\n</form>",
+            "author": {
+                "name": "Jorge Lopez"
+            },
+            "tags": [
+                   "Contact Us"
+            ],
+            "date_published": "2023-07-15T20:54:39-05:00",
+            "date_modified": "2023-07-16T19:19:50-05:00"
+        },
+        {
             "id": "https://jloorpgeez.github.io/firstcodeguide/gauge-chart.html",
             "url": "https://jloorpgeez.github.io/firstcodeguide/gauge-chart.html",
             "title": "Gauge Chart",
@@ -54,7 +83,7 @@
                    "Radar"
             ],
             "date_published": "2023-07-14T16:13:59-05:00",
-            "date_modified": "2023-07-15T20:25:41-05:00"
+            "date_modified": "2023-07-16T19:38:14-05:00"
         }
     ]
 }

@@ -3,12 +3,66 @@
     <title>Jorge Test</title>
     <link href="https://jloorpgeez.github.io/firstcodeguide/feed.xml" rel="self" />
     <link href="https://jloorpgeez.github.io/firstcodeguide" />
-    <updated>2023-07-15T20:32:43-05:00</updated>
+    <updated>2023-07-16T19:38:14-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
     <id>https://jloorpgeez.github.io/firstcodeguide</id>
 
+    <entry>
+        <title>PDF</title>
+        <author>
+            <name>Jorge Lopez</name>
+        </author>
+        <link href="https://jloorpgeez.github.io/firstcodeguide/pdf.html"/>
+        <id>https://jloorpgeez.github.io/firstcodeguide/pdf.html</id>
+
+        <updated>2023-07-16T19:37:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This browser does not support PDF!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<!--
+      Place the following <div> element where you want the PDF to be displayed in your website. You can change the size using the width and height attributes.
+    -->
+<div><object data="https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf" type="application/pdf" width="500" height="678">
+
+        <div class="post__iframe"><iframe loading="lazy" src="https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf" width="500" height="678">
+        <p>This browser does not support PDF!</p>
+        </iframe></div>
+      </object></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact Us</title>
+        <author>
+            <name>Jorge Lopez</name>
+        </author>
+        <link href="https://jloorpgeez.github.io/firstcodeguide/contact-form.html"/>
+        <id>https://jloorpgeez.github.io/firstcodeguide/contact-form.html</id>
+            <category term="Contact Us"/>
+
+        <updated>2023-07-16T19:19:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Your email: Your message: Send
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <form action="https://formspree.io/f/xbjvlrad" method="POST">
+<p><label> Your email: <input name="email" type="email"> </label></p>
+<p><label> Your message: <textarea cols="50" name="message" rows="5"></textarea></label></p>
+<p><label> </label> <!-- your other form fields go here --> <button type="submit">Send</button></p>
+</form>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Gauge Chart</title>
         <author>
@@ -74,7 +128,7 @@
         <media:content url="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" medium="image" />
             <category term="Radar"/>
 
-        <updated>2023-07-15T20:25:41-05:00</updated>
+        <updated>2023-07-16T19:38:14-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" alt="" />
