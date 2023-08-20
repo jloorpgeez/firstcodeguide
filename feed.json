@@ -14,14 +14,14 @@
             "id": "https://www.firstcodeguide.com/pdf.html",
             "url": "https://www.firstcodeguide.com/pdf.html",
             "title": "PDF",
-            "content_html": "<center><object data=\"C:\\Users\\secmoto.WIN10EM\\OneDrive\\Web Sites Publii\\firstcodeguide\\output\\Create-your-own-Radar-graph-for-PowerApps.pdf\" width=\"800\" height=\"500\">\n        </object></center>",
+            "content_html": "<center><object data=\"https://jloorpgeez.github.io/firstcodeguide/Create-your-own-Radar-graph-for-PowerApps.pdf\" width=\"800\" height=\"500\">\n        </object></center>",
             "author": {
                 "name": "Jorge Lopez"
             },
             "tags": [
             ],
             "date_published": "2023-07-16T19:33:39-05:00",
-            "date_modified": "2023-08-20T18:17:29-05:00"
+            "date_modified": "2023-08-20T18:26:48-05:00"
         },
         {
             "id": "https://www.firstcodeguide.com/contact-form.html",
