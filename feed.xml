@@ -3,7 +3,7 @@
     <title>Firstcodeguide</title>
     <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
     <link href="https://www.firstcodeguide.com" />
-    <updated>2023-07-16T19:38:14-05:00</updated>
+    <updated>2023-08-20T17:56:53-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.firstcodeguide.com/pdf.html"/>
         <id>https://www.firstcodeguide.com/pdf.html</id>
 
-        <updated>2023-07-16T19:37:41-05:00</updated>
+        <updated>2023-08-20T17:56:53-05:00</updated>
             <summary>
                 <![CDATA[
                     This browser does not support PDF!
@@ -29,9 +29,9 @@
 <!--
       Place the following <div> element where you want the PDF to be displayed in your website. You can change the size using the width and height attributes.
     -->
-<div><object data="https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf" type="application/pdf" width="500" height="678">
+<div><object data="https://github.com/jloorpgeez/firstcodeguide/blob/main/Create-your-own-Radar-graph-for-PowerApps.pdf" type="application/pdf" width="500" height="678">
 
-        <div class="post__iframe"><iframe loading="lazy" src="https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf" width="500" height="678">
+        <div class="post__iframe"><iframe loading="lazy" src="https://github.com/jloorpgeez/firstcodeguide/blob/main/Create-your-own-Radar-graph-for-PowerApps.pdf" width="500" height="678">
         <p>This browser does not support PDF!</p>
         </iframe></div>
       </object></div>
