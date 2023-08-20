@@ -11,19 +11,6 @@
     },
     "items": [
         {
-            "id": "https://www.firstcodeguide.com/pdf.html",
-            "url": "https://www.firstcodeguide.com/pdf.html",
-            "title": "PDF",
-            "content_html": "<center><object data=\"https://jloorpgeez.github.io/firstcodeguide/Create-your-own-Radar-graph-for-PowerApps.pdf\" width=\"800\" height=\"500\">\n        </object></center><center></center>",
-            "author": {
-                "name": "Jorge Lopez"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-07-16T19:33:39-05:00",
-            "date_modified": "2023-08-20T18:29:51-05:00"
-        },
-        {
             "id": "https://www.firstcodeguide.com/contact-form.html",
             "url": "https://www.firstcodeguide.com/contact-form.html",
             "title": "Contact Us",
@@ -36,7 +23,7 @@
                    "Contact Us"
             ],
             "date_published": "2023-07-15T20:54:39-05:00",
-            "date_modified": "2023-07-16T19:19:50-05:00"
+            "date_modified": "2023-08-20T18:37:20-05:00"
         },
         {
             "id": "https://www.firstcodeguide.com/gauge-chart.html",
@@ -51,7 +38,7 @@
                    "Gauge"
             ],
             "date_published": "2023-07-15T20:32:23-05:00",
-            "date_modified": "2023-07-15T20:32:43-05:00"
+            "date_modified": "2023-08-20T18:37:26-05:00"
         },
         {
             "id": "https://www.firstcodeguide.com/funnel-chart.html",
@@ -66,7 +53,7 @@
                    "Funnel"
             ],
             "date_published": "2023-07-15T20:05:21-05:00",
-            "date_modified": "2023-07-15T20:05:43-05:00"
+            "date_modified": "2023-08-20T18:37:30-05:00"
         },
         {
             "id": "https://www.firstcodeguide.com/button-test.html",
@@ -82,7 +69,7 @@
                    "Radar"
             ],
             "date_published": "2023-07-14T16:13:59-05:00",
-            "date_modified": "2023-08-20T18:34:33-05:00"
+            "date_modified": "2023-08-20T18:37:33-05:00"
         }
     ]
 }

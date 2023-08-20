@@ -3,29 +3,12 @@
     <title>Firstcodeguide</title>
     <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
     <link href="https://www.firstcodeguide.com" />
-    <updated>2023-08-20T18:34:33-05:00</updated>
+    <updated>2023-08-20T18:37:33-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
     <id>https://www.firstcodeguide.com</id>
 
-    <entry>
-        <title>PDF</title>
-        <author>
-            <name>Jorge Lopez</name>
-        </author>
-        <link href="https://www.firstcodeguide.com/pdf.html"/>
-        <id>https://www.firstcodeguide.com/pdf.html</id>
-
-        <updated>2023-08-20T18:29:51-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <center><object data="https://jloorpgeez.github.io/firstcodeguide/Create-your-own-Radar-graph-for-PowerApps.pdf" width="800" height="500">
-        </object></center><center></center>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Contact Us</title>
         <author>
@@ -35,7 +18,7 @@
         <id>https://www.firstcodeguide.com/contact-form.html</id>
             <category term="Contact Us"/>
 
-        <updated>2023-07-16T19:19:50-05:00</updated>
+        <updated>2023-08-20T18:37:20-05:00</updated>
             <summary>
                 <![CDATA[
                     Your email: Your message: Send
@@ -60,7 +43,7 @@
         <id>https://www.firstcodeguide.com/gauge-chart.html</id>
             <category term="Gauge"/>
 
-        <updated>2023-07-15T20:32:43-05:00</updated>
+        <updated>2023-08-20T18:37:26-05:00</updated>
             <summary>
                 <![CDATA[
                     Gauge Chart Gauge chart ready to be used. Import it to your&hellip;
@@ -88,7 +71,7 @@
         <id>https://www.firstcodeguide.com/funnel-chart.html</id>
             <category term="Funnel"/>
 
-        <updated>2023-07-15T20:05:43-05:00</updated>
+        <updated>2023-08-20T18:37:30-05:00</updated>
             <summary>
                 <![CDATA[
                     Funnel Chart Funnel chart ready to be used. Import it to your&hellip;
@@ -116,7 +99,7 @@
         <media:content url="https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" medium="image" />
             <category term="Radar"/>
 
-        <updated>2023-08-20T18:34:33-05:00</updated>
+        <updated>2023-08-20T18:37:33-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" alt="" />
