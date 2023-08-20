@@ -14,15 +14,14 @@
             "id": "https://www.firstcodeguide.com/pdf.html",
             "url": "https://www.firstcodeguide.com/pdf.html",
             "title": "PDF",
-            "summary": "This browser does not support PDF!",
-            "content_html": "<p> </p>\n<!--\n      Place the following <div> element where you want the PDF to be displayed in your website. You can change the size using the width and height attributes.\n    -->\n<div><object data=\"https://github.com/jloorpgeez/firstcodeguide/blob/main/Create-your-own-Radar-graph-for-PowerApps.pdf\" type=\"application/pdf\" width=\"500\" height=\"678\">\n\n        <div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://github.com/jloorpgeez/firstcodeguide/blob/main/Create-your-own-Radar-graph-for-PowerApps.pdf\" width=\"500\" height=\"678\">\n        <p>This browser does not support PDF!</p>\n        </iframe></div>\n      </object></div>",
+            "content_html": "<center><object data=\"C:\\Users\\secmoto.WIN10EM\\OneDrive\\Web Sites Publii\\firstcodeguide\\output\\Create-your-own-Radar-graph-for-PowerApps.pdf\" width=\"800\" height=\"500\">\n        </object></center>",
             "author": {
                 "name": "Jorge Lopez"
             },
             "tags": [
             ],
             "date_published": "2023-07-16T19:33:39-05:00",
-            "date_modified": "2023-08-20T17:56:53-05:00"
+            "date_modified": "2023-08-20T18:17:29-05:00"
         },
         {
             "id": "https://www.firstcodeguide.com/contact-form.html",
