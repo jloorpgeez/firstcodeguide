@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Jorge Test</title>
-    <link href="https://jloorpgeez.github.io/firstcodeguide/feed.xml" rel="self" />
-    <link href="https://jloorpgeez.github.io/firstcodeguide" />
+    <title>Firstcodeguide</title>
+    <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
+    <link href="https://www.firstcodeguide.com" />
     <updated>2023-07-16T19:38:14-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
-    <id>https://jloorpgeez.github.io/firstcodeguide</id>
+    <id>https://www.firstcodeguide.com</id>
 
     <entry>
         <title>PDF</title>
         <author>
             <name>Jorge Lopez</name>
         </author>
-        <link href="https://jloorpgeez.github.io/firstcodeguide/pdf.html"/>
-        <id>https://jloorpgeez.github.io/firstcodeguide/pdf.html</id>
+        <link href="https://www.firstcodeguide.com/pdf.html"/>
+        <id>https://www.firstcodeguide.com/pdf.html</id>
 
         <updated>2023-07-16T19:37:41-05:00</updated>
             <summary>
@@ -43,8 +43,8 @@
         <author>
             <name>Jorge Lopez</name>
         </author>
-        <link href="https://jloorpgeez.github.io/firstcodeguide/contact-form.html"/>
-        <id>https://jloorpgeez.github.io/firstcodeguide/contact-form.html</id>
+        <link href="https://www.firstcodeguide.com/contact-form.html"/>
+        <id>https://www.firstcodeguide.com/contact-form.html</id>
             <category term="Contact Us"/>
 
         <updated>2023-07-16T19:19:50-05:00</updated>
@@ -68,8 +68,8 @@
         <author>
             <name>Jorge Lopez</name>
         </author>
-        <link href="https://jloorpgeez.github.io/firstcodeguide/gauge-chart.html"/>
-        <id>https://jloorpgeez.github.io/firstcodeguide/gauge-chart.html</id>
+        <link href="https://www.firstcodeguide.com/gauge-chart.html"/>
+        <id>https://www.firstcodeguide.com/gauge-chart.html</id>
             <category term="Gauge"/>
 
         <updated>2023-07-15T20:32:43-05:00</updated>
@@ -96,8 +96,8 @@
         <author>
             <name>Jorge Lopez</name>
         </author>
-        <link href="https://jloorpgeez.github.io/firstcodeguide/funnel-chart.html"/>
-        <id>https://jloorpgeez.github.io/firstcodeguide/funnel-chart.html</id>
+        <link href="https://www.firstcodeguide.com/funnel-chart.html"/>
+        <id>https://www.firstcodeguide.com/funnel-chart.html</id>
             <category term="Funnel"/>
 
         <updated>2023-07-15T20:05:43-05:00</updated>
@@ -123,21 +123,21 @@
         <author>
             <name>Jorge Lopez</name>
         </author>
-        <link href="https://jloorpgeez.github.io/firstcodeguide/button-test.html"/>
-        <id>https://jloorpgeez.github.io/firstcodeguide/button-test.html</id>
-        <media:content url="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" medium="image" />
+        <link href="https://www.firstcodeguide.com/button-test.html"/>
+        <id>https://www.firstcodeguide.com/button-test.html</id>
+        <media:content url="https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" medium="image" />
             <category term="Radar"/>
 
         <updated>2023-07-16T19:38:14-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" alt="" />
+                        <img src="https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" alt="" />
                     12 vertex Radar graph (SVG) PowerApps component ready to be used. Import&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" class="type:primaryImage" alt="" /></p>
                 <p> </p>
 <h1>Radar Chart</h1>
 <p> </p>
@@ -150,7 +150,7 @@
 <li>maxValue - Maximum allowed value</li>
 <li>strokecolor - colour of the shadow zone.</li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/Radar-new-Polygon-2.png" alt="" width="507" height="407" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,https://jloorpgeez.github.io/firstcodeguide/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.firstcodeguide.com/media/posts/2/Radar-new-Polygon-2.png" alt="" width="507" height="407" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w"></figure>
 <p><a href="https://jloorpgeez.github.io/firstcodeguide/12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download Radar</button> </a></p>
             ]]>
         </content>
