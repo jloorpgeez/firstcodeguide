@@ -3,7 +3,7 @@
     <title>Firstcodeguide</title>
     <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
     <link href="https://www.firstcodeguide.com" />
-    <updated>2023-08-20T19:30:47-05:00</updated>
+    <updated>2023-08-20T19:33:49-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
@@ -74,7 +74,7 @@
         <id>https://www.firstcodeguide.com/funnel-chart.html</id>
             <category term="Funnel"/>
 
-        <updated>2023-08-20T18:37:30-05:00</updated>
+        <updated>2023-08-20T19:33:49-05:00</updated>
             <summary>
                 <![CDATA[
                     Funnel Chart Funnel chart ready to be used. Import it to your&hellip;
@@ -89,6 +89,10 @@
 <li>Label1 - thru Label5, to give name to each stage.</li>
 <li>Value1 thru Value 5, to enter the value for each stage.</li>
 </ul>
+<figure class="post__image"><img loading="lazy"  src="https://jloorpgeez.github.io/firstcodeguide/Funnel.jpg" alt="" width="507" height="407" data-is-external-image="true"></figure>
+<p><a href="https://jloorpgeez.github.io/firstcodeguide/12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download Radar</button> </a></p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
