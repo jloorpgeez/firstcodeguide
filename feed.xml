@@ -3,7 +3,7 @@
     <title>Firstcodeguide</title>
     <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
     <link href="https://www.firstcodeguide.com" />
-    <updated>2023-08-20T20:25:30-05:00</updated>
+    <updated>2023-08-20T20:31:01-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
@@ -43,7 +43,7 @@
         <id>https://www.firstcodeguide.com/gauge-chart.html</id>
             <category term="Gauge"/>
 
-        <updated>2023-08-20T20:23:00-05:00</updated>
+        <updated>2023-08-20T20:31:01-05:00</updated>
             <summary>
                 <![CDATA[
                     Gauge Chart Gauge chart ready to be used. Import it to your&hellip;
@@ -74,7 +74,7 @@
         <id>https://www.firstcodeguide.com/funnel-chart.html</id>
             <category term="Funnel"/>
 
-        <updated>2023-08-20T20:25:30-05:00</updated>
+        <updated>2023-08-20T20:30:50-05:00</updated>
             <summary>
                 <![CDATA[
                     Funnel Chart Funnel chart ready to be used. Import it to your&hellip;
@@ -93,6 +93,24 @@
 <p><a href="https://jloorpgeez.github.io/firstcodeguide/12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download Radar</button> </a></p>
 <p> </p>
 <p> </p>
+<p> </p>
+<h1>Radar Chart</h1>
+<p> </p>
+<p>12 vertex Radar graph (SVG) PowerApps component ready to be used.</p>
+<p>Import it to your project and use following variables :</p>
+<ul>
+<li>LabelA - thru LabelL, to give name to each vertex</li>
+<li>ValueA - thru ValueL, to enter the values.</li>
+<li>minValue - Minimum allowed value</li>
+<li>maxValue - Maximum allowed value</li>
+<li>strokecolor - colour of the shadow zone.</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="file:///C:/Users/secmoto.WIN10EM/OneDrive/Web Sites Publii/firstcodeguide/input/media/posts/2/Radar-new-Polygon-2.png" alt="" width="507" height="407" sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///C:/Users/secmoto.WIN10EM/OneDrive/Web%20Sites%20Publii/firstcodeguide/input/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,file:///C:/Users/secmoto.WIN10EM/OneDrive/Web%20Sites%20Publii/firstcodeguide/input/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,file:///C:/Users/secmoto.WIN10EM/OneDrive/Web%20Sites%20Publii/firstcodeguide/input/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,file:///C:/Users/secmoto.WIN10EM/OneDrive/Web%20Sites%20Publii/firstcodeguide/input/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w"></figure>
+<p><a href="https://jloorpgeez.github.io/firstcodeguide/12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download Radar</button> </a></p>
+<p> </p>
+<p> </p>
+<center><object data="https://jloorpgeez.github.io/firstcodeguide/Create-your-own-Radar-graph-for-PowerApps.pdf" width="800" height="500">
+	</object></center><center></center>
             ]]>
         </content>
     </entry>
