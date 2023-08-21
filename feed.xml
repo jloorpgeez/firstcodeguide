@@ -3,7 +3,7 @@
     <title>Firstcodeguide</title>
     <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
     <link href="https://www.firstcodeguide.com" />
-    <updated>2023-08-20T21:01:09-05:00</updated>
+    <updated>2023-08-20T21:06:51-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
@@ -106,7 +106,7 @@
         <media:content url="https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" medium="image" />
             <category term="Radar"/>
 
-        <updated>2023-08-20T21:01:09-05:00</updated>
+        <updated>2023-08-20T21:06:51-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" alt="" />
@@ -134,7 +134,7 @@
 <p> </p>
 <p> </p>
 <p><object data="https://jloorpgeez.github.io/firstcodeguide/Create-your-own-Radar-graph-for-PowerApps.pdf" type="application/pdf" width="100%" height="600px">
-      <p>Here's a link to <a href="CleanCode.pdf">the PDF</a>instead.</p>
+      <p>Here's a link to <a href="https://jloorpgeez.github.io/firstcodeguide/Create-your-own-Radar-graph-for-PowerApps.pdf">the PDF</a>instead.</p>
  </object></p>
             ]]>
         </content>
