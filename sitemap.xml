@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://www.firstcodeguide.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://firstcodeguide.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://www.firstcodeguide.com/</loc>
+<loc>https://firstcodeguide.com/</loc>
 </url>
 <url>
-<loc>https://www.firstcodeguide.com/button-test.html</loc>
+<loc>https://firstcodeguide.com/button-test.html</loc>
 <lastmod>2023-08-20T21:41:55-05:00</lastmod>
 <image:image>
-<image:loc>https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg</image:loc>
+<image:loc>https://firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.firstcodeguide.com/media/posts/2/Radar-new-Polygon-2.png</image:loc>
+<image:loc>https://firstcodeguide.com/media/posts/2/Radar-new-Polygon-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.firstcodeguide.com/contact-form.html</loc>
+<loc>https://firstcodeguide.com/contact-form.html</loc>
 <lastmod>2023-08-20T18:37:20-05:00</lastmod>
 </url>
 <url>
-<loc>https://www.firstcodeguide.com/funnel-chart.html</loc>
+<loc>https://firstcodeguide.com/funnel-chart.html</loc>
 <lastmod>2023-08-20T20:35:49-05:00</lastmod>
 </url>
 <url>
-<loc>https://www.firstcodeguide.com/gauge-chart.html</loc>
+<loc>https://firstcodeguide.com/gauge-chart.html</loc>
 <lastmod>2023-08-20T20:35:53-05:00</lastmod>
 </url>
 <url>
-<loc>https://www.firstcodeguide.com/pdf.html</loc>
+<loc>https://firstcodeguide.com/pdf.html</loc>
 <lastmod>2023-08-20T18:37:10-05:00</lastmod>
 </url>
 </urlset>
