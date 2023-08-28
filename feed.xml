@@ -14,8 +14,8 @@
         <author>
             <name>Jorge Lopez</name>
         </author>
-        <link href="https://www.firstcodeguide.com/contact-form.html"/>
-        <id>https://www.firstcodeguide.com/contact-form.html</id>
+        <link href="https://www.firstcodeguide.com/contact-form/"/>
+        <id>https://www.firstcodeguide.com/contact-form/</id>
             <category term="Contact Us"/>
 
         <updated>2023-08-20T18:37:20-05:00</updated>
@@ -39,8 +39,8 @@
         <author>
             <name>Jorge Lopez</name>
         </author>
-        <link href="https://www.firstcodeguide.com/gauge-chart.html"/>
-        <id>https://www.firstcodeguide.com/gauge-chart.html</id>
+        <link href="https://www.firstcodeguide.com/gauge-chart/"/>
+        <id>https://www.firstcodeguide.com/gauge-chart/</id>
             <category term="Gauge"/>
 
         <updated>2023-08-20T20:35:53-05:00</updated>
@@ -70,8 +70,8 @@
         <author>
             <name>Jorge Lopez</name>
         </author>
-        <link href="https://www.firstcodeguide.com/funnel-chart.html"/>
-        <id>https://www.firstcodeguide.com/funnel-chart.html</id>
+        <link href="https://www.firstcodeguide.com/funnel-chart/"/>
+        <id>https://www.firstcodeguide.com/funnel-chart/</id>
             <category term="Funnel"/>
 
         <updated>2023-08-20T20:35:49-05:00</updated>
@@ -101,8 +101,8 @@
         <author>
             <name>Jorge Lopez</name>
         </author>
-        <link href="https://www.firstcodeguide.com/button-test.html"/>
-        <id>https://www.firstcodeguide.com/button-test.html</id>
+        <link href="https://www.firstcodeguide.com/button-test/"/>
+        <id>https://www.firstcodeguide.com/button-test/</id>
         <media:content url="https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" medium="image" />
             <category term="Radar"/>
 
