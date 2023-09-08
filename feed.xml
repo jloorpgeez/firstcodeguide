@@ -3,7 +3,7 @@
     <title>Firstcodeguide</title>
     <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
     <link href="https://www.firstcodeguide.com" />
-    <updated>2023-09-08T18:44:01-05:00</updated>
+    <updated>2023-09-08T18:56:20-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
@@ -106,7 +106,7 @@
         <media:content url="https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" medium="image" />
             <category term="Radar"/>
 
-        <updated>2023-09-08T18:44:01-05:00</updated>
+        <updated>2023-09-08T18:56:20-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.firstcodeguide.com/media/posts/2/pexels-miguel-a-padrinan-3785927.jpg" alt="" />
@@ -132,6 +132,7 @@
 <p><a href="https://jloorpgeez.github.io/firstcodeguide/12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download 12 Side Radar</button> </a></p>
 <p>Pentagon Radar graph (SVG), supports 3 Value Sets for  PowerApps </p>
 <figure class="post__image"><img loading="lazy"  src="https://www.firstcodeguide.com/media/posts/2/Pentagon-Radar-3-Value-Sets.png" alt="" width="484" height="409" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-xs.png 300w ,https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-sm.png 480w ,https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-md.png 768w ,https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-lg.png 1024w"></figure>
+<p><a href="https://jloorpgeez.github.io/firstcodeguide/5 side radar with Multiple Value Set.msapp" download=""> <button class="btn"><i class="fa fa-download"></i> Download Pentagon 3 Set Value Set Radar</button> </a></p>
 <p> </p>
 <div class="post__iframe"><iframe loading="lazy" width="120%" height="120%" src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=https://jloorpgeez.github.io/firstcodeguide/Create-your-own-Radar-graph-for-PowerApps.pdf#toolbar=0&amp;scrollbar=0" frameborder="0" scrolling="auto"></iframe></div>
 <p> </p>
