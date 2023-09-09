@@ -3,7 +3,7 @@
     <title>Firstcodeguide</title>
     <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
     <link href="https://www.firstcodeguide.com" />
-    <updated>2023-09-09T16:43:52-05:00</updated>
+    <updated>2023-09-09T16:57:15-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
@@ -43,7 +43,7 @@
         <id>https://www.firstcodeguide.com/gauge-chart.html</id>
             <category term="Gauge"/>
 
-        <updated>2023-09-09T16:43:52-05:00</updated>
+        <updated>2023-09-09T16:51:56-05:00</updated>
             <summary>
                 <![CDATA[
                     Gauge Chart Gauge chart ready to be used. Import it to your&hellip;
@@ -57,8 +57,7 @@
 <p>-LabelA - thru LabelC, to give name to left, middle and right points.<br>-Value, to enter the value. Use values from 0 to 100<br>-FillColour - to enter the colour of the gauge.</p>
 <figure class="post__image"><img loading="lazy"  src="https://jloorpgeez.github.io/firstcodeguide/Gaugechart.png" alt="" width="507" height="407" data-is-external-image="true"></figure>
 <p> </p>
-<p><a href="Gauge Chart v1.msapp" download="">Download File</a></p>
-<p><a download="" href="https://jloorpgeez.github.io/firstcodeguide/Gauge Chart v1.msapp"> Download recipe </a></p>
+<p><a href="Gauge Chart v1.msapp" download="">Download Gauge Chart</a></p>
             ]]>
         </content>
     </entry>
@@ -71,7 +70,7 @@
         <id>https://www.firstcodeguide.com/button-test.html</id>
             <category term="Radar"/>
 
-        <updated>2023-09-08T19:52:38-05:00</updated>
+        <updated>2023-09-09T16:57:15-05:00</updated>
             <summary>
                 <![CDATA[
                     12 vertex Radar graph (SVG) PowerApps component ready to be used. Import&hellip;
@@ -93,9 +92,10 @@
 </ul>
 <figure class="post__image"><img loading="lazy"  src="https://www.firstcodeguide.com/media/posts/2/Radar-new-Polygon-2.png" alt="" width="507" height="407" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w"></figure>
 <p><a href="https://jloorpgeez.github.io/firstcodeguide/12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download 12 Side Radar</button> </a></p>
+<p><a href="12-side-radar (3).zip" download="">Download 12 Side Radar.msapp</a></p>
 <p>Pentagon Radar graph (SVG), supports 3 Value Sets for  PowerApps </p>
 <figure class="post__image"><img loading="lazy"  src="https://www.firstcodeguide.com/media/posts/2/Pentagon-Radar-3-Value-Sets.png" alt="" width="502" height="424" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-xs.png 300w ,https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-sm.png 480w ,https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-md.png 768w ,https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-lg.png 1024w"></figure>
-<p><a href="https://jloorpgeez.github.io/firstcodeguide/5 side radar with Multiple Value Set.msapp" download=""> <button class="btn"><i class="fa fa-download"></i> Download Pentagon 3 Set Value Set Radar</button> </a></p>
+<p><a href="5 side radar with Multiple Value Set.msapp" download="">Download 5 Side Radar 3 Value Set.msapp</a></p>
 <p> </p>
 <div class="post__iframe"><iframe loading="lazy" width="120%" height="120%" src="https://drive.google.com/viewerng/viewer?embedded=true&amp;url=https://jloorpgeez.github.io/firstcodeguide/Create-your-own-Radar-graph-for-PowerApps.pdf#toolbar=0&amp;scrollbar=0" frameborder="0" scrolling="auto"></iframe></div>
 <p> </p>
