@@ -3,7 +3,7 @@
     <title>Firstcodeguide</title>
     <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
     <link href="https://www.firstcodeguide.com" />
-    <updated>2023-09-08T19:52:38-05:00</updated>
+    <updated>2023-09-09T11:30:22-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
@@ -43,7 +43,7 @@
         <id>https://www.firstcodeguide.com/gauge-chart.html</id>
             <category term="Gauge"/>
 
-        <updated>2023-08-20T20:35:53-05:00</updated>
+        <updated>2023-09-09T11:30:22-05:00</updated>
             <summary>
                 <![CDATA[
                     Gauge Chart Gauge chart ready to be used. Import it to your&hellip;
@@ -60,38 +60,7 @@
 <li>-FillColour - to enter the colour of the gauge.</li>
 </ul>
 <figure class="post__image"><img loading="lazy"  src="https://jloorpgeez.github.io/firstcodeguide/Gaugechart.png" alt="" width="507" height="407" data-is-external-image="true"></figure>
-<p><a href="https://jloorpgeez.github.io/firstcodeguide/12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download Radar</button> </a></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Funnel Chart</title>
-        <author>
-            <name>Jorge Lopez</name>
-        </author>
-        <link href="https://www.firstcodeguide.com/funnel-chart.html"/>
-        <id>https://www.firstcodeguide.com/funnel-chart.html</id>
-            <category term="Funnel"/>
-
-        <updated>2023-08-20T20:35:49-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Funnel Chart Funnel chart ready to be used. Import it to your&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h1>Funnel Chart</h1>
-<p>Funnel chart ready to be used.</p>
-<p>Import it to your project and use following variables :</p>
-<ul>
-<li>Label1 - thru Label5, to give name to each stage.</li>
-<li>Value1 thru Value 5, to enter the value for each stage.</li>
-</ul>
-<figure class="post__image"><img loading="lazy"  src="https://jloorpgeez.github.io/firstcodeguide/Funnel.png" alt="" width="507" height="407" data-is-external-image="true"></figure>
-<p><a href="https://jloorpgeez.github.io/firstcodeguide/12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download Radar</button> </a></p>
-<p> </p>
+<p><a href="https://jloorpgeez.github.io/Gauge Chart v1.msapp" download=""> <button class="btn"><i class="fa fa-download"></i> Download Gauge Chart</button> </a></p>
 <p> </p>
             ]]>
         </content>
