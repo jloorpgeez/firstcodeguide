@@ -3,7 +3,7 @@
     <title>Firstcodeguide</title>
     <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
     <link href="https://www.firstcodeguide.com" />
-    <updated>2023-09-09T12:01:38-05:00</updated>
+    <updated>2023-09-09T12:03:24-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
@@ -43,7 +43,7 @@
         <id>https://www.firstcodeguide.com/gauge-chart.html</id>
             <category term="Gauge"/>
 
-        <updated>2023-09-09T12:01:38-05:00</updated>
+        <updated>2023-09-09T12:03:24-05:00</updated>
             <summary>
                 <![CDATA[
                     Gauge Chart Gauge chart ready to be used. Import it to your&hellip;
@@ -54,11 +54,7 @@
                 <h1>Gauge Chart</h1>
 <p>Gauge chart ready to be used.</p>
 <p>Import it to your project and use following variables :</p>
-<ul>
-<li>-LabelA - thru LabelC, to give name to left, middle and right points.</li>
-<li>-Value, to enter the value. Use values from 0 to 100</li>
-<li>-FillColour - to enter the colour of the gauge.</li>
-</ul>
+<p>-LabelA - thru LabelC, to give name to left, middle and right points.<br>-Value, to enter the value. Use values from 0 to 100<br>-FillColour - to enter the colour of the gauge.</p>
 <figure class="post__image"><img loading="lazy"  src="https://jloorpgeez.github.io/firstcodeguide/Gaugechart.png" alt="" width="507" height="407" data-is-external-image="true"></figure>
 <p><a href="https://jloorpgeez.github.io/firstcodeguide/Gauge Chart v1.msapp" download="https://jloorpgeez.github.io/firstcodeguide/Gauge Chart v1.msapp">Download Gauge Chart Component</a></p>
 <p> </p>
