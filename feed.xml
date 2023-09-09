@@ -3,7 +3,7 @@
     <title>Firstcodeguide</title>
     <link href="https://www.firstcodeguide.com/feed.xml" rel="self" />
     <link href="https://www.firstcodeguide.com" />
-    <updated>2023-09-09T16:57:15-05:00</updated>
+    <updated>2023-09-09T17:01:57-05:00</updated>
     <author>
         <name>Jorge Lopez</name>
     </author>
@@ -70,7 +70,7 @@
         <id>https://www.firstcodeguide.com/button-test.html</id>
             <category term="Radar"/>
 
-        <updated>2023-09-09T16:57:15-05:00</updated>
+        <updated>2023-09-09T17:01:57-05:00</updated>
             <summary>
                 <![CDATA[
                     12 vertex Radar graph (SVG) PowerApps component ready to be used. Import&hellip;
@@ -91,7 +91,6 @@
 <li>strokecolor - colour of the shadow zone.</li>
 </ul>
 <figure class="post__image"><img loading="lazy"  src="https://www.firstcodeguide.com/media/posts/2/Radar-new-Polygon-2.png" alt="" width="507" height="407" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-xs.png 300w ,https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-sm.png 480w ,https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-md.png 768w ,https://www.firstcodeguide.com/media/posts/2/responsive/Radar-new-Polygon-2-lg.png 1024w"></figure>
-<p><a href="https://jloorpgeez.github.io/firstcodeguide/12-side-radar (3).zip" download=""> <button class="btn"><i class="fa fa-download"></i> Download 12 Side Radar</button> </a></p>
 <p><a href="12-side-radar (3).zip" download="">Download 12 Side Radar.msapp</a></p>
 <p>Pentagon Radar graph (SVG), supports 3 Value Sets for  PowerApps </p>
 <figure class="post__image"><img loading="lazy"  src="https://www.firstcodeguide.com/media/posts/2/Pentagon-Radar-3-Value-Sets.png" alt="" width="502" height="424" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-xs.png 300w ,https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-sm.png 480w ,https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-md.png 768w ,https://www.firstcodeguide.com/media/posts/2/responsive/Pentagon-Radar-3-Value-Sets-lg.png 1024w"></figure>
