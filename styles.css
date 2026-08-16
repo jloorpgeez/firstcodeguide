@@ -8,14 +8,19 @@ body {
 }
 
 header {
-  background: #004080;
+  background: #002b5c; /* deeper blue for contrast */
   color: #fff;
   padding: 1rem 0;
   text-align: center;
+  position: relative;
 }
 
 .logo {
-  width: 180px;
+  width: 220px;
+  background-color: #ffffff; /* white strip behind logo */
+  padding: 8px 12px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
   display: block;
   margin: 0 auto 10px;
 }
